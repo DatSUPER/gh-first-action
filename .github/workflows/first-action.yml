@@ -7,6 +7,6 @@ jobs:
       - name: Print greeting
         run: |
             echo "First output"
-            ehco "Second output"
+            echo "Second output"
       - name: Print goodbye
         run: echo "Goodbye!"
